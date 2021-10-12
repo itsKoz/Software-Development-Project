@@ -12,4 +12,5 @@ provides a list of nearby restaurant/cafes with their menus and ratings based on
 
 ## Programming languages we'll learn and use
 Python
+
 HTML and CSS?
