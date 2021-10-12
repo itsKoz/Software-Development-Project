@@ -1,5 +1,7 @@
 # Software-Development-Project
-AP, GJ, IV, SZ's software development project for ICS3U, due on January 17th, 2022
+Hello everyone! 
+
+This is where we can work on our software development project. The final report and presentation is due on January 17th, 2022, but we'll plan on finishing it by sometime November to December maximum. 
 
 ## Ideas for a program/website that: 
 helps organize your daily cycle with tips and advice
