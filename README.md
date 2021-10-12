@@ -9,3 +9,7 @@ asks multiple questions and gives an answer (Like Akinator)
 compiles news from news websites and refreshes it every day
 
 provides a list of nearby restaurant/cafes with their menus and ratings based on your location (Not GPS, just PIN code)
+
+## Programming languages we'll learn and use
+Python
+HTML and CSS?
