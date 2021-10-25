@@ -1,4 +1,7 @@
-This is where we can work on our software development project. The final report and presentation is due on January 17th, 2022, but we'll plan on finishing it early by sometime November to December maximum. 
+# Welcome
+This is where we can work on our software development project. 
+
+The final report and presentation is due on January 17th, 2022, but we'll plan on finishing it early by sometime November to December maximum. 
 
 ## To do:
 
