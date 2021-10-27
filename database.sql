@@ -1,23 +1,30 @@
 CREATE TABLE Restaurants(
-    name TEXT,
-    type TEXT,
-    distanceM FLOAT
+   id TEXT,
+   ALL TEXT,
+   types TEXT,
+   
+   name TEXT,
+    distance REAL
 );
 
-INSERT INTO Restaurants (name, type, distanceM) 
-VALUES ('res 0', 'All', 22);
+INSERT INTO Restaurants (id, ALL, name, distance) 
+VALUES ('','','');
 
-INSERT INTO Restaurants (name, type, distanceM) 
-VALUES ('res 1', 'Mexican', 22);
+INSERT INTO Restaurants (id, MX, name, distance) 
+VALUES ('','','');
 
-INSERT INTO Restaurants (name, type, distanceM) 
-VALUES ('res 2', 'Chinese', 22);
+INSERT INTO Restaurants (id, CH, name, distance) 
+VALUES ('','','');
 
-INSERT INTO Restaurants (name, type, distanceM) 
-VALUES ('res 3', 'Fast Food', 22);
+INSERT INTO Restaurants (id, FF, name, distance) 
+VALUES ('','','');
 
-INSERT INTO Restaurants (name, type, distanceM) 
-VALUES ('res 4', 'Sea Food', 22);
+INSERT INTO Restaurants (id, SF, name, distance) 
+VALUES ('','','');
 
-INSERT INTO Restaurants (name, type, distanceM) 
-VALUES ('res 5', 'Italian', 22);
+INSERT INTO Restaurants (id, IT, name, distance) 
+VALUES ('','','');
+
+UPDATE Restaurants 
+SET name = 'El Mariachi Tacos And Churros' 
+WHERE id = 'MX';
